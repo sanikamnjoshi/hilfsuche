@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"hilfsuche.users"},{"v":2,"unique":true,"key":{"email":1},"name":"email_1","ns":"hilfsuche.users","background":true},{"v":2,"unique":true,"key":{"phoneNr":1},"name":"phoneNr_1","background":true,"ns":"hilfsuche.users"}],"uuid":"4e62fe2b7cd145cf9f98c6d4d036e489"}
